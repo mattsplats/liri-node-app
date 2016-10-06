@@ -1,0 +1,24 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "\"LIRI\" Node.js Data Request App",
+  "main": "liri.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattsplats/liri-node-app.git"
+  },
+  "author": "Matt Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattsplats/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/mattsplats/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.75.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  }
+}
