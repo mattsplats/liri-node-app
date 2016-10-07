@@ -1,0 +1,56 @@
+Request: my-tweets 
+Time: Fri Oct 07 2016 16:59:51 GMT-0500 (Central Daylight Time)
+---------------
+How about some Star Wars hangman? 
+https://t.co/vIKmI251od
+>> Created at: Oct 06 18:23:07
+---------------
+---------------
+Want to play rock, paper, scissors against your friends? Here you go: 
+https://t.co/cIhC1fMkZt
+>> Created at: Oct 06 18:17:57
+---------------
+---------------
+See my latest game: Type or Die! http://https://t.co/gCSXiJrrxM
+>> Created at: Oct 06 18:13:30
+---------------
+
+
+Request: spotify-this-song Thriller
+Time: Fri Oct 07 2016 17:00:12 GMT-0500 (Central Daylight Time)
+---------------
+Artist: Michael Jackson
+Album: Thriller 25 Super Deluxe Edition
+Title: Billie Jean - Single Version
+Preview: https://p.scdn.co/mp3-preview/4eb779428d40d579f14d12a9daf98fc66c7d0be4
+---------------
+
+
+Request: spotify-this-song "I Want it That Way"
+Time: Fri Oct 07 2016 17:00:43 GMT-0500 (Central Daylight Time)
+---------------
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Title: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6
+---------------
+
+
+Request: movie-this Frozen
+Time: Fri Oct 07 2016 17:00:53 GMT-0500 (Central Daylight Time)
+---------------
+Title: Frozen
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+
+Year: 2013
+Country: USA
+Language: English
+
+IMDB Rating (out of 10): 7.6
+Rotten Tomatoes Rating: 7.7
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/frozen_2013/
+---------------
+
+
