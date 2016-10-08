@@ -83,10 +83,6 @@ Rotten Tomatoes URL: ${body.tomatoURL}
 	err: () => console.log('Invalid op')
 };
 
-function runOp() {
-	ops[ op = ops.hasOwnProperty(op) ? op : 'err' ]();
-}
-
 function logOutput(output) {
 	const time = new Date;
 	const logEntry = `Request: ${op} ${args}
@@ -98,4 +94,6 @@ Time: ${time.toString()}${output}
 	fs.appendFile('log.txt', logEntry, error => { if (error) throw error; });
 }
 
-runOp();
+(function runOp() {
+	ops[ op = ops.hasOwnProperty(op) ? op : 'err' ]();
+}());
